@@ -1,0 +1,9 @@
+iterative-stratification
+PyJWT==1.7.1
+imblearn
+scikit-multilearn
+xgboost
+tensorflow
+Keras
+tensorflow-addons
+
